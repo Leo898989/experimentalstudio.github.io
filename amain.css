@@ -1,0 +1,10 @@
+body{margin: 0; padding: 0;}
+
+.directors_message{
+	background-color: #eeeeee;
+	color: #000000;
+}
+.directors_message img{
+	width: 100px;
+	height: 100px;
+}
